@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: aquamarine;
+}
+
+input {
+    display: block;
+    margin: 10px 0;
+}
+
+#messageBox {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: lightgreen;
+}
+
+.hidden {
+    display: none;
+}
